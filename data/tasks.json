@@ -60,7 +60,8 @@
           "timestamp": "2026-01-01T00:00:00Z"
         }
       ],
-      "createdAt": "2026-01-01T00:00:00Z"
+      "createdAt": "2026-01-01T00:00:00Z",
+      "sortOrder": 0
     },
     {
       "id": "guide_user",
@@ -247,7 +248,8 @@
           "timestamp": "2026-01-01T00:00:00Z"
         }
       ],
-      "createdAt": "2026-01-01T00:00:01Z"
+      "createdAt": "2026-01-01T00:00:01Z",
+      "sortOrder": 0
     },
     {
       "id": "task_1774876608992",
@@ -260,8 +262,8 @@
       "subtasks": [],
       "priority": "medium",
       "createdAt": "2026-03-30T13:16:48.992Z",
-      "status": "backlog",
-      "sortOrder": 0
+      "status": "permanent",
+      "sortOrder": 1
     }
   ],
   "projects": [
@@ -279,6 +281,22 @@
     }
   ],
   "activities": [
+    {
+      "type": "moved",
+      "actor": "W00DESS",
+      "task": "检查设备状态",
+      "from": "in_progress",
+      "to": "permanent",
+      "time": "just now"
+    },
+    {
+      "type": "moved",
+      "actor": "W00DESS",
+      "task": "检查设备状态",
+      "from": "backlog",
+      "to": "in_progress",
+      "time": "just now"
+    },
     {
       "type": "moved",
       "actor": "W00DESS",
@@ -308,5 +326,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-03-30T13:21:25.602Z"
+  "lastUpdated": "2026-03-30T13:21:35.855Z"
 }
