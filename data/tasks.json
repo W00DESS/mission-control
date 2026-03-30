@@ -276,7 +276,7 @@
       "subtasks": [],
       "priority": "high",
       "createdAt": "2026-03-30T13:24:38.861Z",
-      "status": "review",
+      "status": "backlog",
       "sortOrder": 0
     }
   ],
@@ -412,5 +412,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-03-30T13:51:26.498Z"
+  "lastUpdated": "2026-03-30T13:59:49.984Z"
 }
