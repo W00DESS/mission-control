@@ -248,6 +248,19 @@
         }
       ],
       "createdAt": "2026-01-01T00:00:01Z"
+    },
+    {
+      "id": "task_1774876608992",
+      "title": "检查设备状态",
+      "description": "检查设备状态",
+      "project": "guides",
+      "tags": [
+        "guides"
+      ],
+      "subtasks": [],
+      "priority": "medium",
+      "createdAt": "2026-03-30T13:16:48.992Z",
+      "status": "in_progress"
     }
   ],
   "projects": [
@@ -286,5 +299,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-03-30T13:16:13.097Z"
+  "lastUpdated": "2026-03-30T13:16:48.992Z"
 }
