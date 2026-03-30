@@ -305,8 +305,8 @@
       "subtasks": [],
       "priority": "medium",
       "createdAt": "2026-03-30T14:25:12.132Z",
-      "status": "in_progress",
-      "sortOrder": 0
+      "status": "permanent",
+      "sortOrder": 2
     }
   ],
   "projects": [
@@ -324,6 +324,14 @@
     }
   ],
   "activities": [
+    {
+      "type": "moved",
+      "actor": "W00DESS",
+      "task": "公司网络测试",
+      "from": "in_progress",
+      "to": "permanent",
+      "time": "just now"
+    },
     {
       "type": "moved",
       "actor": "W00DESS",
@@ -481,5 +489,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-03-30T14:25:24.168Z"
+  "lastUpdated": "2026-03-30T23:13:22.721Z"
 }
