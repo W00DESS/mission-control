@@ -263,7 +263,7 @@
       "priority": "medium",
       "createdAt": "2026-03-30T13:16:48.992Z",
       "status": "permanent",
-      "sortOrder": 2
+      "sortOrder": 1
     },
     {
       "id": "task_1774877078861",
@@ -276,8 +276,8 @@
       "subtasks": [],
       "priority": "medium",
       "createdAt": "2026-03-30T13:24:38.861Z",
-      "status": "in_progress",
-      "sortOrder": 0
+      "status": "permanent",
+      "sortOrder": 2
     }
   ],
   "projects": [
@@ -295,6 +295,14 @@
     }
   ],
   "activities": [
+    {
+      "type": "moved",
+      "actor": "W00DESS",
+      "task": "AGENT",
+      "from": "in_progress",
+      "to": "permanent",
+      "time": "just now"
+    },
     {
       "type": "moved",
       "actor": "W00DESS",
@@ -364,5 +372,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-03-30T13:25:37.138Z"
+  "lastUpdated": "2026-03-30T13:32:48.899Z"
 }
