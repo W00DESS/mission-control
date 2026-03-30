@@ -264,6 +264,19 @@
       "createdAt": "2026-03-30T13:16:48.992Z",
       "status": "in_progress",
       "sortOrder": 0
+    },
+    {
+      "id": "task_1774877078861",
+      "title": "AGENT",
+      "description": "检查agent状态",
+      "project": "",
+      "tags": [
+        ""
+      ],
+      "subtasks": [],
+      "priority": "medium",
+      "createdAt": "2026-03-30T13:24:38.861Z",
+      "status": "permanent"
     }
   ],
   "projects": [
@@ -334,5 +347,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-03-30T13:21:43.375Z"
+  "lastUpdated": "2026-03-30T13:24:38.861Z"
 }
