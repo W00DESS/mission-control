@@ -276,7 +276,7 @@
       "subtasks": [],
       "priority": "high",
       "createdAt": "2026-03-30T13:24:38.861Z",
-      "status": "in_progress",
+      "status": "permanent",
       "sortOrder": 0
     }
   ],
@@ -295,6 +295,14 @@
     }
   ],
   "activities": [
+    {
+      "type": "moved",
+      "actor": "W00DESS",
+      "task": "AGENT",
+      "from": "in_progress",
+      "to": "permanent",
+      "time": "just now"
+    },
     {
       "type": "moved",
       "actor": "W00DESS",
@@ -396,5 +404,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-03-30T13:36:40.938Z"
+  "lastUpdated": "2026-03-30T13:47:06.173Z"
 }
