@@ -278,6 +278,19 @@
       "createdAt": "2026-03-30T13:24:38.861Z",
       "status": "backlog",
       "sortOrder": 0
+    },
+    {
+      "id": "task_1774879606826",
+      "title": "FRP状态检查",
+      "description": "查看本机frpc的状态，映射状态",
+      "project": "",
+      "tags": [
+        ""
+      ],
+      "subtasks": [],
+      "priority": "medium",
+      "createdAt": "2026-03-30T14:06:46.826Z",
+      "status": "permanent"
     }
   ],
   "projects": [
@@ -420,5 +433,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-03-30T14:00:14.901Z"
+  "lastUpdated": "2026-03-30T14:06:46.826Z"
 }
