@@ -290,8 +290,8 @@
       "subtasks": [],
       "priority": "medium",
       "createdAt": "2026-03-30T14:06:46.826Z",
-      "status": "in_progress",
-      "sortOrder": 0
+      "status": "permanent",
+      "sortOrder": 2
     }
   ],
   "projects": [
@@ -309,6 +309,14 @@
     }
   ],
   "activities": [
+    {
+      "type": "moved",
+      "actor": "W00DESS",
+      "task": "FRP状态检查",
+      "from": "in_progress",
+      "to": "permanent",
+      "time": "just now"
+    },
     {
       "type": "moved",
       "actor": "W00DESS",
@@ -442,5 +450,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-03-30T14:07:05.790Z"
+  "lastUpdated": "2026-03-30T14:13:16.206Z"
 }
