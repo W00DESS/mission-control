@@ -327,6 +327,22 @@
     {
       "type": "moved",
       "actor": "W00DESS",
+      "task": "公司网络测试",
+      "from": "permanent",
+      "to": "in_progress",
+      "time": "just now"
+    },
+    {
+      "type": "moved",
+      "actor": "W00DESS",
+      "task": "公司网络测试",
+      "from": "in_progress",
+      "to": "permanent",
+      "time": "just now"
+    },
+    {
+      "type": "moved",
+      "actor": "W00DESS",
       "task": "检查设备状态",
       "from": "in_progress",
       "to": "permanent",
@@ -513,5 +529,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-03-30T23:23:56.865Z"
+  "lastUpdated": "2026-03-30T23:24:08.670Z"
 }
