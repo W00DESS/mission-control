@@ -290,7 +290,8 @@
       "subtasks": [],
       "priority": "medium",
       "createdAt": "2026-03-30T14:06:46.826Z",
-      "status": "permanent"
+      "status": "permanent",
+      "sortOrder": 2
     }
   ],
   "projects": [
@@ -433,5 +434,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-03-30T14:06:46.826Z"
+  "lastUpdated": "2026-03-30T14:06:55.115Z"
 }
