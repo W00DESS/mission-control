@@ -293,6 +293,19 @@
       "status": "done",
       "sortOrder": 0,
       "completedAt": "2026-03-30T14:24:11.167Z"
+    },
+    {
+      "id": "task_1774880712131",
+      "title": "公司网络测试",
+      "description": "测试www.wuxiweiyu.xyz的连通性",
+      "project": "default",
+      "tags": [
+        "default"
+      ],
+      "subtasks": [],
+      "priority": "medium",
+      "createdAt": "2026-03-30T14:25:12.132Z",
+      "status": "permanent"
     }
   ],
   "projects": [
@@ -459,5 +472,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-03-30T14:24:11.167Z"
+  "lastUpdated": "2026-03-30T14:25:12.132Z"
 }
