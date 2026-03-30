@@ -276,7 +276,7 @@
       "subtasks": [],
       "priority": "high",
       "createdAt": "2026-03-30T13:24:38.861Z",
-      "status": "backlog",
+      "status": "in_progress",
       "sortOrder": 0
     },
     {
@@ -324,6 +324,14 @@
     }
   ],
   "activities": [
+    {
+      "type": "moved",
+      "actor": "W00DESS",
+      "task": "AGENT",
+      "from": "backlog",
+      "to": "in_progress",
+      "time": "just now"
+    },
     {
       "type": "moved",
       "actor": "W00DESS",
@@ -529,5 +537,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-03-30T23:24:38.895Z"
+  "lastUpdated": "2026-03-30T23:24:39.941Z"
 }
