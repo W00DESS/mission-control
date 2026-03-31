@@ -262,8 +262,8 @@
       "subtasks": [],
       "priority": "medium",
       "createdAt": "2026-03-30T13:16:48.992Z",
-      "status": "permanent",
-      "sortOrder": 2
+      "status": "in_progress",
+      "sortOrder": 0
     },
     {
       "id": "task_1774877078861",
@@ -324,6 +324,14 @@
     }
   ],
   "activities": [
+    {
+      "type": "moved",
+      "actor": "W00DESS",
+      "task": "检查设备状态",
+      "from": "permanent",
+      "to": "in_progress",
+      "time": "just now"
+    },
     {
       "type": "moved",
       "actor": "W00DESS",
@@ -553,5 +561,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-03-31T01:34:59.005Z"
+  "lastUpdated": "2026-03-31T01:35:03.855Z"
 }
